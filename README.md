@@ -5,6 +5,6 @@ As the ConvMixer introduces a convolution layer to do the patches, this autoenco
 
 
 ## Results
-Only trained for 10 epochs on the full [https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/](IA Segment Human Matting Dataset).
+Only trained for 10 epochs on the full [IA Segment Human Matting Dataset](https://www.kaggle.com/laurentmih/aisegmentcom-matting-human-datasets/).
 
 ![](./pantallazo.png)
